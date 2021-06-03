@@ -10,7 +10,7 @@
 
 6、超级玛丽顶愤怒的小鸟保卫小猪佩奇
 
-gamestory.github.io/peppajump/
+[https://gamestory.github.io/peppajump/](https://gamestory.github.io/peppajump/)
 
 7、猴子快爬，不要被鲨鱼吃掉
 
